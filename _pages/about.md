@@ -19,11 +19,13 @@ redirect_from:
 
 I received the bachelor’s degree in information engineering from the School of Communication Engineering, Jilin University, Changchun, China, in 2016, and the M.S. degree in signal and information processing from the School of Communication and Information Engineering, Shanghai University, Shanghai, China, jointly trained with Shanghai Institute of Technical Physics, Chinese Academy of Sciences. He is currently pursuing the Ph.D. degree in information and communication engineering with the College of Electronics and Information Engineering, Tongji University, Shanghai. 
 
-My research interests include federated learning, wireless communication, digital image processing, and reinforcement learning.
+**Research interests**: Distributed Learning, Edge AI, Cloud Computing, Optimization, Privacy, Security, AI4Science, Biology.
 
 # 📖 Educations
-- *2020.09 - 2025.09 (now)*, Tongji University. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.09 - 2025.09 (now)*, **Ph.D.**, Tongji University, Shanghai, China.
+- *2018.09 - 2020.07*, **M.Eng.**, (Joint Training), Institute of Technical Physics, Chinese Academy of Sciences, Shanghai, China.
+- *2017.09 - 2020.07*, **M.Eng.**, Shanghai University, Shanghai, China.
+- *2012.09 - 2017.07*, **B.Eng.**, Jilin University, Changchun, China. 
 
 # 💻 Datasets
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
