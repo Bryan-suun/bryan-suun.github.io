@@ -17,9 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received the bachelor’s degree in information engineering from the School of Communication Engineering, Jilin University, Changchun, China, in 2016, and the M.S. degree in signal and information processing from the School of Communication and Information Engineering, Shanghai University, Shanghai, China, jointly trained with Shanghai Institute of Technical Physics, Chinese Academy of Sciences. He is currently pursuing the Ph.D. degree in information and communication engineering with the College of Electronics and Information Engineering, Tongji University, Shanghai. 
+👋Hi, I'm Pengcheng, thank you for visiting my page. I’m someone who enjoys both quiet focus and creative problem-solving, whether in daily life or in research.
+I’ve always been curious about how complex systems work—and more importantly, how they can be made better, smarter, and more secure.
+
+During my Ph.D. at Tongji University, I focused on the cooperative optimization of wireless Federated Learning (FL) in heterogeneous and resource-constrained environments. My work addressed key challenges such as data heterogeneity, communication variability, limited computation, and privacy risks. 
+
+[//]: # (I developed a series of strategies to improve FL efficiency, including device selection and power control algorithms, RIS-assisted aggregation under imperfect data, and a dual-segment clustering strategy that tackles both data and communication heterogeneity. I also proposed a local multi-round update mechanism to better manage resource usage and convergence behavior. To address privacy-utility trade-offs, I designed a lightweight differential privacy strategy with adaptive budget allocation. )
+[//]: # (These efforts collectively advanced the performance and practicality of FL systems in challenging wireless environments.)
+
+Earlier, during my M.Sc. studies, I worked on biometric security, specifically developing robust 3D face presentation attack detection (PAD) methods using medium-wave infrared (MWIR) and polarization-based thermal imaging. My research aimed to detect mask-based spoofing attacks—especially those involving non-rigid silicone masks—under varying illumination and temperature conditions. 
 
 **Research interests**: Edge AI, Cloud Computing, Optimization, Privacy, Security, AI4Science, Biology, Robots.
+
+**I am actively seeking a postdoctoral position and would greatly appreciate the opportunity to discuss potential collaborations if my research aligns with your interests.**
 
 # 📖 Educations
 - *2020.09 - 2025.09*, **Ph.D.**, Tongji University, Shanghai, China. Advised by Prof. Erwu Liu and Prof. Rui Wang. [**PAI Lab**](https://ai.tongji.edu.cn/yw.htm)
