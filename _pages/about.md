@@ -19,7 +19,7 @@ redirect_from:
 
 I received the bachelor’s degree in information engineering from the School of Communication Engineering, Jilin University, Changchun, China, in 2016, and the M.S. degree in signal and information processing from the School of Communication and Information Engineering, Shanghai University, Shanghai, China, jointly trained with Shanghai Institute of Technical Physics, Chinese Academy of Sciences. He is currently pursuing the Ph.D. degree in information and communication engineering with the College of Electronics and Information Engineering, Tongji University, Shanghai. 
 
-**Research interests**: Distributed Learning, Edge AI, Cloud Computing, Optimization, Privacy, Security, AI4Science, Biology.
+**Research interests**: Edge AI, Cloud Computing, Optimization, Privacy, Security, AI4Science, Biology, Robots.
 
 # 📖 Educations
 - *2020.09 - 2025.09*, **Ph.D.**, Tongji University, Shanghai, China. Advised by Prof. Erwu Liu and Prof. Rui Wang. [**PAI Lab**](https://ai.tongji.edu.cn/yw.htm)
