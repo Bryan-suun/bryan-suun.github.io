@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Pengcheng Sun received the bachelor’s degree in information engineering from the School of Communication Engineering, Jilin University, Changchun, China, in 2016, and the M.S. degree in signal and information processing from the School of Communication and Information Engineering, Shanghai University, Shanghai, China, jointly trained with Shanghai Institute of Technical Physics, Chinese Academy of Sciences. He is currently pursuing the Ph.D. degree in information and communication engineering with the College of Electronics and Information Engineering, Tongji University, Shanghai. 
+I received the bachelor’s degree in information engineering from the School of Communication Engineering, Jilin University, Changchun, China, in 2016, and the M.S. degree in signal and information processing from the School of Communication and Information Engineering, Shanghai University, Shanghai, China, jointly trained with Shanghai Institute of Technical Physics, Chinese Academy of Sciences. He is currently pursuing the Ph.D. degree in information and communication engineering with the College of Electronics and Information Engineering, Tongji University, Shanghai. 
 
 My research interests include federated learning, wireless communication, digital image processing, and reinforcement learning.
 
