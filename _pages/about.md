@@ -22,7 +22,7 @@ I received the bachelor’s degree in information engineering from the School of
 **Research interests**: Distributed Learning, Edge AI, Cloud Computing, Optimization, Privacy, Security, AI4Science, Biology.
 
 # 📖 Educations
-- *2020.09 - 2025.09 (now)*, **Ph.D.**, Tongji University, Shanghai, China. Advised by Prof. Erwu Liu and Prof. Rui Wang. [**PAI Lab**](https://ai.tongji.edu.cn/yw.htm)
+- *2020.09 - 2025.09*, **Ph.D.**, Tongji University, Shanghai, China. Advised by Prof. Erwu Liu and Prof. Rui Wang. [**PAI Lab**](https://ai.tongji.edu.cn/yw.htm)
 - *2017.09 - 2020.07*, **M.Eng.**, Shanghai University, Shanghai, China. Joint supervised with CAS Shanghai Institute of Technical Physics.
 - *2012.09 - 2017.07*, **B.Eng.**, Jilin University, Changchun, China. 
 
