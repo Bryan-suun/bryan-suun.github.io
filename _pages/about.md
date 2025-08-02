@@ -38,7 +38,8 @@ Earlier, during my M.Sc. studies, I worked on biometric security, specifically d
 
 # 🔥 News
 - *2025.08*: &nbsp;🎉🎉 Let's look forward to something wonderful happening!
-- *2025.06*: &nbsp;🎉🎉 Participated as a volunteer at the IEEE Global Blockchain Conference held by my supervisor Prof. Erwu Liu.
+- *2025.06*: &nbsp;🎉🎉 Participated as a volunteer at the _IEEE Global Blockchain Conference_ held by my supervisor Prof. Erwu Liu.
+- *2022.12 - 2025.03*: &nbsp;🎉🎉 I led a research team and successfully completed the research task.
 
 # 📝 Preprints
 
@@ -136,7 +137,7 @@ _Optical and Quantum Electronics, 2020_
 
 ## A Mid-wave Infrared Dataset for 3D Masked Face Representation
 
-Collected by **Pengcheng Sun**.
+Collected by **Pengcheng Sun** at 2019
 
 </div></div>
 
@@ -145,7 +146,7 @@ Collected by **Pengcheng Sun**.
 
 ## A Mid-wave Polarized Infrared Dataset for 3D Masked Face Representation
 
-Collected by **Pengcheng Sun**.
+Collected by **Pengcheng Sun** at 2019
 
 </div></div>
 
@@ -161,7 +162,7 @@ Collected by **Pengcheng Sun**.
 - Natural Science Foundation of China: Key Technologies for Integrated Communication and Navigation Systems in Harsh Wireless Environments (No. 4217010675). **Application and Student Researcher**. 
 - CCF-Baidu Songguo Foundation: Convergence Analysis, Privacy Protection and Network Resource Optimization of Federated Learning for Mobile Edge Computing Networks With Limited Wireless Communication Resources, **Application and Student Researcher**.
 
-# 🎖 Honors and Awards
+# 🏅 Honors and Awards
 - *2020* Third prize of academic scholarship of Shanghai University. 
 - *2019* Third prize of academic scholarship of Shanghai University.
 - *2018* Outstanding Volunteer in IEEE ICME as a photographer
