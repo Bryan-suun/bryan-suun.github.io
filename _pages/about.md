@@ -54,7 +54,7 @@ Earlier, during my M.Sc. studies, I worked on biometric security, specifically d
 
 **P. Sun**, E. Liu*, W. Ni, K. Yu, X. Qu, R. Wang, Y. Bi, C. Zhang, A. Jamalipour
 
-_IEEE Wireless Communications Letters_
+_IEEE Wireless Communications Letters, 2025_
 
 ### [[paper]](https://ieeexplore.ieee.org/document/10945769)
 
@@ -67,7 +67,7 @@ _IEEE Wireless Communications Letters_
 
 **P. Sun**, E. Liu*, W. Ni, R. Wang, Z. Xing, B. Li, A. Jamalipour
 
-_IEEE Transactions on Communications_
+_IEEE Transactions on Communications, 2025_
 
 ### [[paper]](https://ieeexplore.ieee.org/document/10649032)
 
@@ -80,7 +80,7 @@ _IEEE Transactions on Communications_
 
 Y. Geng, E. Liu*, R. Wang, **P. Sun**, B. Lu, J. Wang
 
-_IEEE Internet of Things Journal_
+_IEEE Internet of Things Journal, 2024_
 
 ### [[paper]](https://ieeexplore.ieee.org/document/10374206)
 
@@ -93,13 +93,24 @@ _IEEE Internet of Things Journal_
 
 **P. Sun**, H. Li
 
-_IEEE COMSOC MMTC Communications-Frontiers_
+_IEEE COMSOC MMTC Communications-Frontiers, 2021_
 
 ### [paper]
 
 </div></div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SYMMETRY 2020</div><img src='images/SYMMETRY.png' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+## A 3D Mask Presentation Attack Detection Method Based on Polarization MediumWave Infrared Imaging
+
+**P. Sun**, D. Zeng*, X. Li, L. Yang*, L. Li, Z. Chen, F. Chen*.
+
+_Symmetry-Basel, 2020_
+
+### [[paper]](https://www.mdpi.com/2073-8994/12/3/376)
+
+</div></div>
 
 
 # 💻 Datasets
