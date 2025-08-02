@@ -64,16 +64,6 @@ _IEEE Wireless Communications Letters_
 
 [//]: # (</div>)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE WCL 2025</div><img src='images/WCL.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Dual-Segment Clustering Strategy for Hierarchical Federated Learning in Heterogeneous Wireless Environments
-
-**P. Sun**, E. Liu*, W. Ni, K. Yu, X. Qu, R. Wang, Y. Bi, C. Zhang, A. Jamalipour
-
-_IEEE Wireless Communications Letters_
-
-[[paper]](https://ieeexplore.ieee.org/document/10945769)
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
