@@ -48,13 +48,13 @@ Earlier, during my M.Sc. studies, I worked on biometric security, specifically d
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE WCL 2025</div><img src='images/WCL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Dual-Segment Clustering Strategy for Hierarchical Federated Learning in Heterogeneous Wireless Environments
+## Dual-Segment Clustering Strategy for Hierarchical Federated Learning in Heterogeneous Wireless Environments
 
-**P. Sun**, E. Liu*, W. Ni, K. Yu, X. Qu, R. Wang, Y. Bi, C. Zhang, A. Jamalipour
+### **P. Sun**, E. Liu*, W. Ni, K. Yu, X. Qu, R. Wang, Y. Bi, C. Zhang, A. Jamalipour
 
-_IEEE Wireless Communications Letters_
+### _IEEE Wireless Communications Letters_
 
-[[paper]](https://ieeexplore.ieee.org/document/10945769)
+### [[paper]](https://ieeexplore.ieee.org/document/10945769)
 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
