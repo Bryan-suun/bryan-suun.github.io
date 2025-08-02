@@ -112,6 +112,19 @@ _Symmetry-Basel, 2020_
 
 </div></div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">OQE 2020</div><img src='images/OQE.png' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## Lightweight U‐Net for cloud detection of visible and thermal infrared remote sensing images
+
+J. Zhang, X. Li*, L. Li, **P. Sun**, X. Su*, T. Hu, F. Chen*.
+
+_Optical and Quantum Electronics, 2020_
+
+### [[paper]](https://link.springer.com/article/10.1007/s11082-020-02500-8)
+
+</div></div>
+
 
 # 💻 Datasets
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
