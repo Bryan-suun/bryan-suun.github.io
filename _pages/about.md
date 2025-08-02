@@ -159,7 +159,7 @@ Collected by **Pengcheng Sun** at 2019
 
 # 💬 Projects
 
-- Natural Science Foundation of China: Key Technologies for Integrated Communication and Navigation Systems in Harsh Wireless Environments (No. 4217010675). **Application and Student Researcher**. 
+- Natural Science Foundation of China: Key Technologies for Integrated Communication and Navigation Systems in Harsh Wireless Environments. **Application and Student Researcher**. 
 - CCF-Baidu Songguo Foundation: Convergence Analysis, Privacy Protection and Network Resource Optimization of Federated Learning for Mobile Edge Computing Networks With Limited Wireless Communication Resources, **Application and Student Researcher**.
 
 # 🏅 Honors and Awards
