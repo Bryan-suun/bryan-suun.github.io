@@ -34,7 +34,7 @@ Earlier, during my M.Sc. studies, I worked on biometric security, specifically d
 # 📖 Educations
 - *2020.09 - 2025.09*, **Ph.D.**, Tongji University, Shanghai, China. Advised by Prof. Erwu Liu and Prof. Rui Wang. [**PAI Lab**](https://ai.tongji.edu.cn/yw.htm)
 - *2017.09 - 2020.07*, **M.Eng.**, Shanghai University, Shanghai, China. Joint supervised with CAS Shanghai Institute of Technical Physics.
-- *2012.09 - 2017.07*, **B.Eng.**, Jilin University, Changchun, China.
+- *2012.09 - 2016.07*, **B.Eng.**, Jilin University, Changchun, China.
 
 # 🔥 News
 - *2025.08*: &nbsp;🎉🎉 Let's look forward to something wonderful happening!
