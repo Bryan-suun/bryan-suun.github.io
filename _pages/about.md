@@ -41,22 +41,10 @@ Earlier, during my M.Sc. studies, I worked on biometric security, specifically d
 
 # 📝 Preprints
 
-<div class='paper-box'><div class='paper-box-text' markdown="1">
+1. **P. Sun**, E. Liu, W. Ni, _et al_. “[Cluster-Aware Multi-Round Update for Wireless Federated Learning in Heterogeneous Environments](https://arxiv.org/abs/2505.06268),” arXiv:2505.06268, 2025
 
-Dual-Segment Clustering Strategy for Hierarchical Federated Learning in Heterogeneous Wireless Environments
+2. **P. Sun**, E. Liu, W. Ni, _et al_. “[LAPA-based Dynamic Privacy Optimization for Wireless Federated Learning in Heterogeneous Environments](https://arxiv.org/abs/2505.19823),” arXiv:2505.19823, 2025
 
-**P. Sun**, E. Liu*, W. Ni, K. Yu, X. Qu, R. Wang, Y. Bi, C. Zhang, A. Jamalipour
-
-_IEEE Wireless Communications Letters_
-
-</div></div>
-
-
-Dual-Segment Clustering Strategy for Hierarchical Federated Learning in Heterogeneous Wireless Environments
-
-**P. Sun**, E. Liu*, W. Ni, K. Yu, X. Qu, R. Wang, Y. Bi, C. Zhang, A. Jamalipour
-
-_IEEE Wireless Communications Letters_
 
 
 
