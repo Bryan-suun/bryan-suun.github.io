@@ -38,6 +38,7 @@ Earlier, during my M.Sc. studies, I worked on biometric security, specifically d
 
 # 🔥 News
 - *2025.08*: &nbsp;🎉🎉 Let's look forward to something wonderful happening!
+- *2025.06*: &nbsp;🎉🎉 Participated as a volunteer at the IEEE Global Blockchain Conference held by my supervisor Prof. Erwu Liu.
 
 # 📝 Preprints
 
@@ -131,15 +132,27 @@ _Optical and Quantum Electronics, 2020_
 
 
 # 💻 Datasets
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- A Mid-wave Infrared Dataset for 3D Masked Face Representation.
+
+- A Mid-wave Polarized Infrared Dataset for 3D Masked Face Representation.
+
+# 💬 Projects
+
+- Natural Science Foundation of China: Key Technologies for Integrated Communication and Navigation Systems in Harsh Wireless Environments (No. 4217010675). **Application and Student Researcher**. 
+- CCF-Baidu Songguo Foundation: Convergence Analysis, Privacy Protection and Network Resource Optimization of Federated Learning for Mobile Edge Computing Networks With Limited Wireless Communication Resources, **Application and Student Researcher**.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2020* Third prize of academic scholarship of Shanghai University. 
+- *2019* Third prize of academic scholarship of Shanghai University.
+- *2018* Outstanding Volunteer in IEEE ICME as a photographer
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+[//]: # (# 💬 Invited Talks)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+[//]: # (- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
+
+[//]: # (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]]&#40;https://github.com/&#41;)
+
+[//]: # ()
+[//]: # (# 💻 Internships)
+
+[//]: # (- *2019.05 - 2020.02*, [Lorem]&#40;https://github.com/&#41;, China.)

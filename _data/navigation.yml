@@ -18,6 +18,9 @@ main:
   - title: "Datasets"
     url: "/#-datasets"
 
+  - title: "Projects"
+    url: "/#-projects"
+
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
