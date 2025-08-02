@@ -25,11 +25,11 @@ During my Ph.D. at Tongji University, I focused on the cooperative optimization 
 [//]: # (I developed a series of strategies to improve FL efficiency, including device selection and power control algorithms, RIS-assisted aggregation under imperfect data, and a dual-segment clustering strategy that tackles both data and communication heterogeneity. I also proposed a local multi-round update mechanism to better manage resource usage and convergence behavior. To address privacy-utility trade-offs, I designed a lightweight differential privacy strategy with adaptive budget allocation. )
 [//]: # (These efforts collectively advanced the performance and practicality of FL systems in challenging wireless environments.)
 
-Earlier, during my M.Sc. studies, I worked on biometric security, specifically developing robust 3D face presentation attack detection (PAD) methods using medium-wave infrared (MWIR) and polarization-based thermal imaging. My research aimed to detect mask-based spoofing attacks—especially those involving non-rigid silicone masks—under varying illumination and temperature conditions. 
+Earlier, during my M.Sc. studies, I worked on biometric security, specifically developing robust 3D face presentation attack detection (PAD) methods using medium-wave infrared (MWIR) and polarization-based thermal imaging. My research aimed to detect mask-based spoofing attacks, especially those involving non-rigid silicone masks, under varying illumination and temperature conditions. 
 
 **Research interests**: Edge AI, Cloud Computing, Optimization, Privacy, Security, AI4Science, Biology, Robots.
 
-**I am actively seeking a postdoctoral position and would greatly appreciate the opportunity to discuss potential collaborations if my research aligns with your interests.**
+**I'm on the market for a postdoctoral position and open to conversations about possible research collaborations.**
 
 # 📖 Educations
 - *2020.09 - 2025.09*, **Ph.D.**, Tongji University, Shanghai, China. Advised by Prof. Erwu Liu and Prof. Rui Wang. [**PAI Lab**](https://ai.tongji.edu.cn/yw.htm)
