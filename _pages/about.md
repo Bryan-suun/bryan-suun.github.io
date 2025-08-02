@@ -37,7 +37,28 @@ Earlier, during my M.Sc. studies, I worked on biometric security, specifically d
 - *2012.09 - 2017.07*, **B.Eng.**, Jilin University, Changchun, China.
 
 # 🔥 News
-- *2025.08*: &nbsp;🎉🎉 Let's look forward to something wonderful happening! 
+- *2025.08*: &nbsp;🎉🎉 Let's look forward to something wonderful happening!
+
+# 📝 Preprints
+
+Dual-Segment Clustering Strategy for Hierarchical Federated Learning in Heterogeneous Wireless Environments
+
+**P. Sun**, E. Liu*, W. Ni, K. Yu, X. Qu, R. Wang, Y. Bi, C. Zhang, A. Jamalipour
+
+_IEEE Wireless Communications Letters_
+
+### [[paper]](https://ieeexplore.ieee.org/document/10945769)
+
+Dual-Segment Clustering Strategy for Hierarchical Federated Learning in Heterogeneous Wireless Environments
+
+**P. Sun**, E. Liu*, W. Ni, K. Yu, X. Qu, R. Wang, Y. Bi, C. Zhang, A. Jamalipour
+
+_IEEE Wireless Communications Letters_
+
+### [[paper]](https://ieeexplore.ieee.org/document/10945769)
+
+
+
 
 # 📝 Publications 
 
