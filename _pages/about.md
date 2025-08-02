@@ -73,7 +73,7 @@ _IEEE Transactions on Communications_
 
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE IoTJ 2025</div><img src='images/IOTJ.png' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE IoTJ 2024</div><img src='images/IOTJ.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## Reinforcement-Learning-Based Policy Design for Outage Minimization in DF Relaying Networks
@@ -86,7 +86,18 @@ _IEEE Internet of Things Journal_
 
 </div></div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Comm.-Frontiers 2021</div><img src='images/FRONT.png' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+## Federated Learning Over Wireless Communication Networks
+
+**P. Sun**, H. Li
+
+_IEEE COMSOC MMTC Communications-Frontiers_
+
+### [paper]
+
+</div></div>
 
 
 
