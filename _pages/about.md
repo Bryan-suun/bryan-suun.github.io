@@ -34,18 +34,14 @@ Earlier, during my M.Sc. studies, I worked on biometric security, specifically d
 # 📖 Educations
 - *2020.09 - 2025.09*, **Ph.D.**, Tongji University, Shanghai, China. Advised by Prof. Erwu Liu and Prof. Rui Wang. [**PAI Lab**](https://ai.tongji.edu.cn/yw.htm)
 - *2017.09 - 2020.07*, **M.Eng.**, Shanghai University, Shanghai, China. Joint supervised with CAS Shanghai Institute of Technical Physics.
-- *2012.09 - 2017.07*, **B.Eng.**, Jilin University, Changchun, China. 
-
-# 💻 Datasets
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2012.09 - 2017.07*, **B.Eng.**, Jilin University, Changchun, China.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.08*: &nbsp;🎉🎉 Let's look forward to something wonderful happening! 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE WCL 2025</div><img src='images/WCL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE WCL 2025</div><img src='images/WCL.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## Dual-Segment Clustering Strategy for Hierarchical Federated Learning in Heterogeneous Wireless Environments
@@ -62,12 +58,12 @@ _IEEE Wireless Communications Letters_
 
 </div>
 
+# 💻 Datasets
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
