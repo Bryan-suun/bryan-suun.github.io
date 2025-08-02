@@ -29,7 +29,7 @@ Earlier, during my M.Sc. studies, I worked on biometric security, specifically d
 
 **Research interests**: Edge AI, Cloud Computing, Optimization, Privacy, Security, AI4Science, Biology, Robots.
 
-**I'm on the market for a postdoctoral position and open to conversations about possible research collaborations!!!**
+**I'm on the market for a postdoctoral position and open to conversations about possible research collaborations.**
 
 # 📖 Educations
 - *2020.09 - 2025.09*, **Ph.D.**, Tongji University, Shanghai, China. Advised by Prof. Erwu Liu and Prof. Rui Wang. [**PAI Lab**](https://ai.tongji.edu.cn/yw.htm)
