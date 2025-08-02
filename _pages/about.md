@@ -74,11 +74,8 @@ _IEEE Wireless Communications Letters_
 
 ### [[paper]](https://ieeexplore.ieee.org/document/10945769)
 
-<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div></div>
 
-</div>
-
-</div>
 
 # 💻 Datasets
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
