@@ -73,6 +73,23 @@ _IEEE Transactions on Communications_
 
 </div></div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE IoTJ 2025</div><img src='images/IOTJ.png' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## Reinforcement-Learning-Based Policy Design for Outage Minimization in DF Relaying Networks
+
+Y. Geng, E. Liu*, R. Wang, **P. Sun**, B. Lu, J. Wang
+
+_IEEE Internet of Things Journal_
+
+### [[paper]](https://ieeexplore.ieee.org/document/10374206)
+
+</div></div>
+
+
+
+
+
 
 # 💻 Datasets
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
