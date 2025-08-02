@@ -45,6 +45,10 @@ Earlier, during my M.Sc. studies, I worked on biometric security, specifically d
 
 2. **P. Sun**, E. Liu, W. Ni, _et al_. “[LAPA-based Dynamic Privacy Optimization for Wireless Federated Learning in Heterogeneous Environments](https://arxiv.org/abs/2505.19823),” arXiv:2505.19823, 2025
 
+3. **P. Sun**, E. Liu, W. Ni, _et al_. "[Dual-Segment Clustering Strategy for Hierarchical Federated Learning in Heterogeneous Wireless Environments](https://arxiv.org/abs/2405.09276)," arXiv:2405.09276, 2024
+
+4. **P. Sun**, E. Liu, R. Wang. "[A SER-based Device Selection Mechanism in Multi-bits Quantization Federated Learning](https://arxiv.org/abs/2405.02320)," arXiv:2405.02320, 2024
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE WCL 2025</div><img src='images/WCL.png' alt="sym" width="90%"></div></div>
