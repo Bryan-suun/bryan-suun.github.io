@@ -41,15 +41,19 @@ Earlier, during my M.Sc. studies, I worked on biometric security, specifically d
 
 # 📝 Preprints
 
-1. Dual-Segment Clustering Strategy for Hierarchical Federated Learning in Heterogeneous Wireless Environments
+<div class='paper-box'></div></div>
+<div class='paper-box-text' markdown="1">
+
+Dual-Segment Clustering Strategy for Hierarchical Federated Learning in Heterogeneous Wireless Environments
 
 **P. Sun**, E. Liu*, W. Ni, K. Yu, X. Qu, R. Wang, Y. Bi, C. Zhang, A. Jamalipour
 
 _IEEE Wireless Communications Letters_
 
-<strong></span></strong></div>
+</div>
 
-2. Dual-Segment Clustering Strategy for Hierarchical Federated Learning in Heterogeneous Wireless Environments
+
+Dual-Segment Clustering Strategy for Hierarchical Federated Learning in Heterogeneous Wireless Environments
 
 **P. Sun**, E. Liu*, W. Ni, K. Yu, X. Qu, R. Wang, Y. Bi, C. Zhang, A. Jamalipour
 
