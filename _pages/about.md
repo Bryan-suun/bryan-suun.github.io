@@ -41,7 +41,7 @@ Earlier, during my M.Sc. studies, I worked on biometric security, specifically d
 
 # 📝 Preprints
 
-<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
 
 Dual-Segment Clustering Strategy for Hierarchical Federated Learning in Heterogeneous Wireless Environments
 
