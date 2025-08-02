@@ -60,7 +60,7 @@ _IEEE Wireless Communications Letters_
 
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCOM 2025</div><img src='images/TCOM.png' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCOM 2025</div><img src='images/TCOM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## Reconfigurable Intelligent Surface-Assisted Wireless Federated Learning With Imperfect Aggregation
