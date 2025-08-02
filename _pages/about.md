@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 👋Hi, I'm Pengcheng, thank you for visiting my page. I’m someone who enjoys both quiet focus and creative problem-solving, whether in daily life or in research.
-I’ve always been curious about how complex systems work—and more importantly, how they can be made better, smarter, and more secure.
+I’ve always been curious about how complex systems work, and more importantly, how they can be made better, smarter, and more secure.
 
 During my Ph.D. at Tongji University, I focused on the cooperative optimization of wireless Federated Learning (FL) in heterogeneous and resource-constrained environments. My work addressed key challenges such as data heterogeneity, communication variability, limited computation, and privacy risks. 
 
@@ -38,7 +38,7 @@ Earlier, during my M.Sc. studies, I worked on biometric security, specifically d
 
 # 🔥 News
 - *2025.08*: &nbsp;🎉🎉 Let's look forward to something wonderful happening!
-- *2025.06*: &nbsp;🎉🎉 Participated as a volunteer at the _IEEE Global Blockchain Conference_ held by my supervisor Prof. Erwu Liu.
+- *2025.06*: &nbsp;🎉🎉 I participated as a volunteer at the _IEEE Global Blockchain Conference_ held by my supervisor Prof. Erwu Liu.
 - *2022.12 - 2025.03*: &nbsp;🎉🎉 I led a research team and successfully completed the research task. 
 One of the members is going to pursue a doctoral degree at Nanyang Technological University, while the other member will study for a master's degree in [**PAI Lab**](https://ai.tongji.edu.cn/yw.htm).
 
