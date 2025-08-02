@@ -45,10 +45,6 @@ Earlier, during my M.Sc. studies, I worked on biometric security, specifically d
 
 2. **P. Sun**, E. Liu, W. Ni, _et al_. “[LAPA-based Dynamic Privacy Optimization for Wireless Federated Learning in Heterogeneous Environments](https://arxiv.org/abs/2505.19823),” arXiv:2505.19823, 2025
 
-
-
-
-
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE WCL 2025</div><img src='images/WCL.png' alt="sym" width="90%"></div></div>
@@ -61,6 +57,19 @@ Earlier, during my M.Sc. studies, I worked on biometric security, specifically d
 _IEEE Wireless Communications Letters_
 
 ### [[paper]](https://ieeexplore.ieee.org/document/10945769)
+
+</div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCOM 2025</div><img src='images/TCOM.png' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## Reconfigurable Intelligent Surface-Assisted Wireless Federated Learning With Imperfect Aggregation
+
+**P. Sun**, E. Liu*, W. Ni, R. Wang, Z. Xing, B. Li, A. Jamalipour
+
+_IEEE Transactions on Communications_
+
+### [[paper]](https://ieeexplore.ieee.org/document/10649032)
 
 </div></div>
 
