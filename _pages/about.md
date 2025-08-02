@@ -38,9 +38,9 @@ Earlier, during my M.Sc. studies, I worked on biometric security, specifically d
 
 # 🔥 News
 - *2025.08*: &nbsp;🎉🎉 Let's look forward to something wonderful happening!
-- *2025.06*: &nbsp;🎉🎉 I participated as a volunteer at the _IEEE Global Blockchain Conference_ held by my supervisor Prof. Erwu Liu.
-- *2022.12 - 2025.03*: &nbsp;🎉🎉 I led a research team and successfully completed the research task. 
-One of the members is going to pursue a doctoral degree at Nanyang Technological University, while the other member will study for a master's degree in [**PAI Lab**](https://ai.tongji.edu.cn/yw.htm).
+- *2025.06*: &nbsp;🎉🎉 I participated as a volunteer at the **_IEEE Global Blockchain Conference_** held by my supervisor Prof. Erwu Liu.
+- *2022.12 - 2025.03*: &nbsp;🎉🎉 I _led a research team_ and successfully completed the research task. 
+One of my members is going to pursue a doctoral degree at _**NTU Singapore**_, while another member will study for a master's degree in [**PAI Lab**](https://ai.tongji.edu.cn/yw.htm).
 
 # 📝 Preprints
 
