@@ -138,7 +138,7 @@ _Optical and Quantum Electronics, 2020_
 
 ## A Mid-wave Infrared Dataset for 3D Masked Face Representation
 
-Collected by **Pengcheng Sun** at 2019
+Collected by **Pengcheng Sun** in 2019
 
 </div></div>
 
@@ -147,7 +147,7 @@ Collected by **Pengcheng Sun** at 2019
 
 ## A Mid-wave Polarized Infrared Dataset for 3D Masked Face Representation
 
-Collected by **Pengcheng Sun** at 2019
+Collected by **Pengcheng Sun** in 2019
 
 </div></div>
 
