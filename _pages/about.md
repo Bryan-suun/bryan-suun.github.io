@@ -27,13 +27,13 @@ MY research focuses on the cooperative optimization of wireless Federated Learni
 
 Earlier, during my M.Sc. studies, I worked on biometric security, specifically developing robust 3D face presentation attack detection (PAD) methods using medium-wave infrared (MWIR) and polarization-based thermal imaging. My research aimed to detect mask-based spoofing attacks, especially those involving non-rigid silicone masks, under varying illumination and temperature conditions. 
 
-**Research interests**: Edge AI, Cloud Computing, Optimization, Privacy, Security, AI4Science, Biology, Robots.
+**Research interests**: Optimization, Edge AI, Cloud Computing, Privacy, Security, AI4Science, AI4Net, Biology, Robots.
 
-**I'm open to conversations about any possible research collaborations.**
+**I'm open to conversations about any possible research collaborations**, and my Email is _sunpc2012@gmail.com_.
 
 # 📖 Experiences
 - *2026 - now*, **Postdoctoral Research Fellow**, The Chinese University of Hong Kong, Shenzhen, China.
-- *2020.09 - 2025.09*, **Ph.D.**, Tongji University, Shanghai, China. Advised by Prof. Erwu Liu and Prof. Rui Wang. [**PAI Lab**](https://ai.tongji.edu.cn/yw.htm)
+- *2020.09 - 2025.09*, **Ph.D.**, Tongji University, Shanghai, China.
 - *2017.09 - 2020.07*, **M.Eng.**, Shanghai University, Shanghai, China. Joint supervised with CAS Shanghai Institute of Technical Physics.
 - *2012.09 - 2016.07*, **B.Eng.**, Jilin University, Changchun, China.
 
