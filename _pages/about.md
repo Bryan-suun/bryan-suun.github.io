@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-👋Hi, I'm Pengcheng, a **postdoctoral research fellow** at _The Chinese University of Hong Kong_, with the collaborating supervisor of Prof. Tsung-Hui Chang (IEEE Fellow). I’m someone who enjoys both quiet focus and creative problem-solving, whether in daily life or in research.
+👋Hi, I'm Pengcheng, a **postdoctoral research fellow** at _The Chinese University of Hong Kong, Shenzhen_, with the collaborating supervisor of Prof. Tsung-Hui Chang (IEEE Fellow). I’m someone who enjoys both quiet focus and creative problem-solving, whether in daily life or in research.
 I’ve always been curious about how complex systems work, and more importantly, how they can be made better, smarter, and more secure.
 
 MY research focuses on the cooperative optimization of wireless Federated Learning (FL) in heterogeneous and resource-constrained environments. My works address the key challenges such as data heterogeneity, communication variability, limited computation, and privacy risks. 
@@ -32,7 +32,7 @@ Earlier, during my M.Sc. studies, I worked on biometric security, specifically d
 **I'm open to conversations about any possible research collaborations**, and my Email is _sunpc2012@gmail.com_.
 
 # 📖 Experiences
-- *2026 - now*, **Postdoctoral Research Fellow**, The Chinese University of Hong Kong, China.
+- *2026 - now*, **Postdoctoral Research Fellow**, The Chinese University of Hong Kong, Shenzhen, China.
 - *2020.09 - 2025.09*, **Ph.D.**, Tongji University, Shanghai, China.
 - *2017.09 - 2020.07*, **M.Eng.**, Shanghai University, Shanghai, China. Joint supervised with CAS Shanghai Institute of Technical Physics.
 - *2012.09 - 2016.07*, **B.Eng.**, Jilin University, Changchun, China.
