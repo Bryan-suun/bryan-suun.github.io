@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Pengcheng Sun"
   avatar           : "images/My Photo.jpg"
-  bio              : "Tongji University"
-  location         : "Shanghai, China"
+  bio              : "Chinese University of Hong Kong (SZ)"
+  location         : "Shenzhen, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=OeXAuogAAAAJ&hl=zh-CN&oi=ao"
-  email            : "pc_sun2019@163.com"
+  email            : "sunpc_2012@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
