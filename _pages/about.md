@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-👋Hi, I'm Pengcheng, a **postdoctoral research fellow** at The Chinese University of Hong Kong, Shenzhen, with the collaborating supervisor of Prof. Tsung-Hui Chang (IEEE Fellow). I’m someone who enjoys both quiet focus and creative problem-solving, whether in daily life or in research.
+👋Hi, I'm Pengcheng, a **postdoctoral research fellow** at _The Chinese University of Hong Kong, Shenzhen_, with the collaborating supervisor of Prof. Tsung-Hui Chang (IEEE Fellow). I’m someone who enjoys both quiet focus and creative problem-solving, whether in daily life or in research.
 I’ve always been curious about how complex systems work, and more importantly, how they can be made better, smarter, and more secure.
 
 MY research focuses on the cooperative optimization of wireless Federated Learning (FL) in heterogeneous and resource-constrained environments. My works address the key challenges such as data heterogeneity, communication variability, limited computation, and privacy risks. 
