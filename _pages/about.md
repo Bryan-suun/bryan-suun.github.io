@@ -17,10 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-👋Hi, I'm Pengcheng, thank you for visiting my page. I’m someone who enjoys both quiet focus and creative problem-solving, whether in daily life or in research.
+👋Hi, I'm Pengcheng, a **postdoctoral research fellow** at The Chinese University of Hong Kong, Shenzhen, with the collaborating supervisor of Prof. Tsung-Hui Chang (IEEE Fellow). I’m someone who enjoys both quiet focus and creative problem-solving, whether in daily life or in research.
 I’ve always been curious about how complex systems work, and more importantly, how they can be made better, smarter, and more secure.
 
-During my Ph.D. at Tongji University, I focused on the cooperative optimization of wireless Federated Learning (FL) in heterogeneous and resource-constrained environments. My work addressed key challenges such as data heterogeneity, communication variability, limited computation, and privacy risks. 
+MY research focuses on the cooperative optimization of wireless Federated Learning (FL) in heterogeneous and resource-constrained environments. My works address the key challenges such as data heterogeneity, communication variability, limited computation, and privacy risks. 
 
 [//]: # (I developed a series of strategies to improve FL efficiency, including device selection and power control algorithms, RIS-assisted aggregation under imperfect data, and a dual-segment clustering strategy that tackles both data and communication heterogeneity. I also proposed a local multi-round update mechanism to better manage resource usage and convergence behavior. To address privacy-utility trade-offs, I designed a lightweight differential privacy strategy with adaptive budget allocation. )
 [//]: # (These efforts collectively advanced the performance and practicality of FL systems in challenging wireless environments.)
@@ -29,9 +29,10 @@ Earlier, during my M.Sc. studies, I worked on biometric security, specifically d
 
 **Research interests**: Edge AI, Cloud Computing, Optimization, Privacy, Security, AI4Science, Biology, Robots.
 
-**I'm on the market for a postdoctoral position and open to conversations about possible research collaborations.**
+**I'm open to conversations about any possible research collaborations.**
 
-# 📖 Educations
+# 📖 Experiences
+- *2026 - now*, **Postdoctoral Research Fellow**, The Chinese University of Hong Kong, Shenzhen, China.
 - *2020.09 - 2025.09*, **Ph.D.**, Tongji University, Shanghai, China. Advised by Prof. Erwu Liu and Prof. Rui Wang. [**PAI Lab**](https://ai.tongji.edu.cn/yw.htm)
 - *2017.09 - 2020.07*, **M.Eng.**, Shanghai University, Shanghai, China. Joint supervised with CAS Shanghai Institute of Technical Physics.
 - *2012.09 - 2016.07*, **B.Eng.**, Jilin University, Changchun, China.
